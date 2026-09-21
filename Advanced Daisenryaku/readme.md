@@ -6,7 +6,7 @@
 - 플랫폼 : 메가 드라이브
 - 장르 : Strategy
 - 패치 : [Advanced Daisenryaku (T-ko) v1.0.xdelta](.attachment_readme.md/Advanced%20Daisenryaku%20%28T-ko%29%20v1.0.xdelta)
-- 원본롬 SHA-256 : 817ffae0fb81acc8e61306489de7f83c03d2fafb140826606357818cb54f625d
+- 원본롬 SHA-256 : 2C1F547239E5133423ADDA3A60196033582A4C6D37782FD9331046DD9C1A0FB2
 
 ![1](.attachment_readme.md/images/1.png)
 ![2](.attachment_readme.md/images/2.png)
