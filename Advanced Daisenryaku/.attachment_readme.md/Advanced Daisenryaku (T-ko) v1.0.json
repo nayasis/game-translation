@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "patch": {
+    "file": "Advanced Daisenryaku (T-ko) v1.0.xdelta",
+    "sha256": "82eee500575267859f22fcb0c8bdad1a9bbd3c80efb0ca7c86490e958976804b",
+    "bytes": 912298
+  },
+  "source": {
+    "file": "Advanced Daisenryaku (ja).smd",
+    "format": "SMD with 512-byte copier header",
+    "sha256": "817ffae0fb81acc8e61306489de7f83c03d2fafb140826606357818cb54f625d",
+    "bytes": 1049088,
+    "normalized_md_sha256": "47360b90ee077c2df7bb8f8bb6f46bbea25d7e5b1fd975cdf507c1048d80b062"
+  },
+  "target": {
+    "file": "Advanced Daisenryaku (T-ko) v1.0.md",
+    "format": "Mega Drive MD",
+    "sha256": "2c1f547239e5133423adda3a60196033582a4c6d37782fd9331046dd9c1a0fb2",
+    "bytes": 4194304,
+    "header_checksum": "50D3"
+  },
+  "verification": {
+    "source_hash": true,
+    "source_normalization": true,
+    "reproducible_target_hash": true,
+    "intermediate_bps_roundtrip": true,
+    "xdelta_forward_roundtrip": true
+  }
+}

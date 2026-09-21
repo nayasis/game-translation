@@ -7,6 +7,8 @@
 - 장르 : Strategy
 - 패치 : [Advanced Daisenryaku (T-ko) v1.0.xdelta](.attachment_readme.md/Advanced%20Daisenryaku%20%28T-ko%29%20v1.0.xdelta)
 - 원본롬 SHA-256 : 817FFAE0FB81ACC8E61306489DE7F83C03D2FAFB140826606357818CB54F625D
+- 원본롬 메타정보 : [Advanced Daisenryaku (T-ko) v1.0.json](.attachment_readme.md/Advanced%20Daisenryaku%20%28T-ko%29%20v1.0.json)
+
 
 ![1](.attachment_readme.md/images/1.png)
 ![2](.attachment_readme.md/images/2.png)
