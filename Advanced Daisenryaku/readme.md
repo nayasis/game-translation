@@ -1,14 +1,16 @@
 # 어드밴스드 대전략
 
-- 사용 AI : gpt-6-astra, gpt-5.6-sol, gpt-5.6-terra
 - 게임명 : 어드벤스드 대전략 : 도이치 전격작전
 - 제작자 : nayasis
 - 플랫폼 : 메가 드라이브
 - 장르 : Strategy
-- 패치 : [Advanced Daisenryaku (T-ko) v1.0.xdelta](.attachment_readme.md/Advanced%20Daisenryaku%20%28T-ko%29%20v1.0.xdelta)
+- 패치
+  - [Advanced Daisenryaku (T-ko) v1.0.1.xdelta](.attachment_readme.md/Advanced%20Daisenryaku%20%28T-ko%29%20v1.0.1.xdelta)
+    - STANDARD 모드 미션 완료시 메세지 수정 (쏘갈장군님 제보)
+  - [Advanced Daisenryaku (T-ko) v1.0.xdelta](.attachment_readme.md/Advanced%20Daisenryaku%20%28T-ko%29%20v1.0.xdelta)
 - 원본롬 SHA-256 : 817FFAE0FB81ACC8E61306489DE7F83C03D2FAFB140826606357818CB54F625D
-- 원본롬 메타정보 : [Advanced Daisenryaku (T-ko) v1.0.json](.attachment_readme.md/Advanced%20Daisenryaku%20%28T-ko%29%20v1.0.json)
-
+- 원본롬 메타정보 : [Advanced Daisenryaku.json](.attachment_readme.md/Advanced%20Daisenryaku.json)
+- 사용 AI : gpt-6-astra, gpt-5.6-sol, gpt-5.6-terra
 
 ![1](.attachment_readme.md/images/1.png)
 ![2](.attachment_readme.md/images/2.png)
