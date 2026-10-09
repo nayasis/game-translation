@@ -5,6 +5,10 @@
 - 플랫폼 : 메가 드라이브
 - 장르 : Strategy
 - 패치
+  - [Advanced Daisenryaku (T-ko) v1.0.2.xdelta](.attachment_readme.md/Advanced%20Daisenryaku%20%28T-ko%29%20v1.0.2.xdelta)
+    - 게임 MOD입니다. (번역과 무관)
+      - 수송유닛 탑승/하차를 슈로대 형태로 변경
+      - 캠페인에서 독일 유닛수 10% 상향
   - [Advanced Daisenryaku (T-ko) v1.0.1.xdelta](.attachment_readme.md/Advanced%20Daisenryaku%20%28T-ko%29%20v1.0.1.xdelta)
     - STANDARD 모드 미션 완료시 메세지 수정 (쏘갈장군님 제보)
   - [Advanced Daisenryaku (T-ko) v1.0.xdelta](.attachment_readme.md/Advanced%20Daisenryaku%20%28T-ko%29%20v1.0.xdelta)
