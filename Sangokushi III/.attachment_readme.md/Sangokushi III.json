@@ -1,0 +1,20 @@
+{
+  "source": {
+    "file": "Sangokushi III (Japan).md",
+    "format": "Raw Mega Drive binary, big-endian, no copier header (not interleaved SMD)",
+    "bytes": 1572864,
+    "sha256": "46791222d6e61e7d6eeb600630770dbad7626d3e9aa26bd1db958b7c534d57d8",
+    "sha1": "c85d03a6bcfeccc66ea3fa3cbda006c83576815f",
+    "md5": "b0e87b97d9d4c4f5a1de0fbc2834bf86",
+    "crc32": "a8de6aea",
+    "header": {
+      "console": "SEGA MEGA DRIVE",
+      "copyright": "(C)T-76 1992.AUG",
+      "domestic_title": "三國志Ⅲ",
+      "overseas_title": "Romance of The Three Kingdoms III",
+      "product_code": "GM T-76093 -10",
+      "checksum": "e7d7",
+      "region": "J"
+    }
+  }
+}
