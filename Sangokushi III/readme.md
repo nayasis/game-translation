@@ -9,7 +9,7 @@
 - 원본롬
   -  SHA-256: 46791222D6E61E7D6EEB600630770DBAD7626D3E9AA26BD1DB958B7C534D57D8
   - [메타정보](.attachment_readme.md/Sangokushi%20III.json)
-- 사용 AI : OpenAI Codex, GPT-5.6 Terra
+- 사용 AI : OpenAI Codex (GPT-6 Sol, GPT-6 Astra, GPT-5.6 Terra)
 
 ![타이틀](.attachment_readme.md/images/1.png)
 ![게임 화면](.attachment_readme.md/images/2.png)
